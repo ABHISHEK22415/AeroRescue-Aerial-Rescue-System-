@@ -1,4 +1,4 @@
-UAV RESCUE SYSTEM
+AERIAL RESCUE SYSTEM
 
 
 This project helps disaster rescue teams identify the level of injury in persons through the location of wounds on a person. 
